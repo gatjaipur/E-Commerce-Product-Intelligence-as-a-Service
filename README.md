@@ -1,6 +1,6 @@
-# Amazon Review Scraper using Selectorlib 
+# E-Commerce-Product-Intelligence-as-a-Service 
 
-A simple amazon scraper to extract product details and prices from Amazon.com using Python Requests and Selectorlib. 
+An E-Commerce-Product-Intelligence-as-a-Service to extract product details and prices from Amazon.com using Python Requests and Selectorlib. 
 
 Full article at [ScrapeHero Tutorials](https://www.scrapehero.com/how-to-scrape-amazon-product-reviews/)
 
